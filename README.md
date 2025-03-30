@@ -1,1 +1,1 @@
-# odin-landing-page
+This is a practice page from the Odin course
